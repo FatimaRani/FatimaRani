@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👩🏻‍💻 I am Software Engineer with a passion of MLOps and Data Science.<br>💌 Shoot me an email or add me on Linkedin 😌!
+👩🏻‍💻 I am Software Engineer with a passion of Gen.AI, LLMOps and Data Science.<br>💌 Shoot me an email or add me on Linkedin 😌!
 
 
 ## 🌐 Socials:
